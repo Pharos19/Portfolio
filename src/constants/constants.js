@@ -30,7 +30,7 @@ export const projects = [
     title: 'Book Nook',
     description: "A bibliophile's dream app that lets users create and maintain a virtual bookshelf. Add books paired with critical reviews and user comments to get the most out of your social reading experience. Users can sign up to maintain their own personal shareable library to track the books they're currently reading, want to read, and have read.Share your personal takes on both the contemporary and classics only with Book||Nook!",
     image: '/images/book-nook.png',
-    tags: ['MySQL2', 'Sequelize', 'bcrypt', 'Express', 'Handlebars', 'Node.js'],
+    tags: ['Sequelize', 'bcrypt', 'Express', 'Node.js'],
     source: 'https://github.com/Krenbot/book-nook#-booknook---a-virtual-bookshelf-for-the-modern-era',
     visit: 'https://book-nook.herokuapp.com/login',
     id: 3,

@@ -27,12 +27,12 @@ const Header = () =>  (
       </li>
       <li>
         <Link href="#about">
-          <NavLink>About</NavLink>
+          <NavLink>About Me</NavLink>
         </Link>
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com">
+      <SocialIcons href="https://github.com/Pharos19">
         <AiFillGithub size="3rem" />
       </SocialIcons>
       <SocialIcons href="https://linkedin.com">
